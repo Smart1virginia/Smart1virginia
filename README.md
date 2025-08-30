@@ -1,16 +1,23 @@
-## Hi there 👋
+# Bonjour 👋, je m’appelle Bergille Virginia
 
-<!--
-**Smart1virginia/Smart1virginia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis étudiante à Montréal dans le domaine des réseaux et télécommunications.  
+J’utilise GitHub et GitLab pour partager mes travaux, apprendre et progresser en programmation et en informatique.  
+Mon objectif est de développer mes compétences en télécoms, en programmation et en cybersécurité.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Me contacter
+- 📧 Email : [smart.bergille@outlook.com](mailto:smart.bergille@outlook.com)  
+- 🐙 GitHub : [Smart1virginia](https://github.com/Smart1virginia)  
+- 🦊 GitLab : [Mon profil GitLab](https://gitlab.info.uqam.ca/chiengang_tchakounte.bergille_virginia)  
+- 📱 Téléphone : 514-500-1391  
+
+---
+
+## 💻 Quelques projets
+- 🌐 [Mon premier site web](https://smart1virginia.github.io/mon-site-perso)  
+- 📂 Projets en SQL et Java (en cours)  
+
+---
+
+Merci d’avoir visité mon profil 😊

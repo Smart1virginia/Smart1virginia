@@ -1,6 +1,6 @@
-# Bonjour 👋, je m’appelle Bergille Virginia
+# Bonjour 👋, je m’appelle Bergille V.
 
-Je suis étudiante à Montréal dans le domaine des réseaux et télécommunications.  
+Je suis étudiante à Montréal dans le domaine des réseaux et systeme de télécommunications.  
 J’utilise GitHub et GitLab pour partager mes travaux, apprendre et progresser en programmation et en informatique.  
 Mon objectif est de développer mes compétences en télécoms, en programmation et en cybersécurité.
 

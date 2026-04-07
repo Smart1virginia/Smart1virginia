@@ -1,4 +1,4 @@
-# Bonjour 👋, je m’appelle Bergille V.
+# Bonjour 👋, je m’appelle Chiengang Tchakounte
 
 ---
 Merci d’avoir visité mon profil 😊
